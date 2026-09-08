@@ -1,4 +1,4 @@
-# Hi, I'm Ricardo Galván 👋
+# Hi, I'm Ricardo Galván 
 
 **Mechatronic Engineer | Data Scientist | Applied AI**
 
