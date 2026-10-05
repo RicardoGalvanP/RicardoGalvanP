@@ -19,6 +19,7 @@ learning, and industrial automation.
 
 **Languages:** Python, SQL, JavaScript  
 **Data Science:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn 
+
 **Visualization:** Tableau, Jupyter  
 **Automation:** PLCs, HMI, Studio 5000, RSLogix  
 **Tools:** GitHub, Google Colab  
