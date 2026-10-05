@@ -1,8 +1,8 @@
 # Hi, I'm Ricardo Galván 
 
-**Mechatronic Engineer | Data Scientist | Applied AI**
+**Mechatronic Engineer | Applied AI**
 
-Mechatronic Engineer from Tecnológico de Monterrey with 2+ years of professional 
+Mechatronic Engineer from Tecnológico de Monterrey with 3+ years of professional 
 experience in enterprise data systems, currently pursuing a Master's in Applied 
 Artificial Intelligence. I work at the intersection of data engineering, machine 
 learning, and industrial automation.
