@@ -18,7 +18,7 @@ learning, and industrial automation.
 ## 🛠️ Tech Stack
 
 **Languages:** Python, SQL, JavaScript  
-**Data Science:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn 
+**Data Science:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn  
 **Visualization:** Tableau, Jupyter  
 **Automation:** PLCs, HMI, Studio 5000, RSLogix  
 **Tools:** GitHub, Google Colab  
