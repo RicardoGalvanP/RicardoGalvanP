@@ -20,7 +20,7 @@ Mechatronic Engineer from Tecnológico de Monterrey with 3+ years of professiona
 
 ## 📂 Projects
 
-- [Coursework](https://github.com/RicardoGalvanP/coursework): classification, regression, PCA, feature engineering and EDA projects from my Master's program (Python, scikit-learn).
+- [Data Science & Analytics](https://github.com/RicardoGalvanP/coursework): classification, regression, PCA, feature engineering and EDA projects from my Master's program (Python, scikit-learn).
 
 <!-- Add new portfolio projects here -->
 
