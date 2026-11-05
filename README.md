@@ -4,7 +4,7 @@
 
 Mechatronic Engineer from Tecnológico de Monterrey with 3+ years of professional experience in enterprise data systems, currently pursuing a Master's in Applied Artificial Intelligence. I work at the intersection of data engineering, machine learning, and industrial automation.
 
-- 📍 Hermosillo, Mexico
+- 📍 Hermosillo, México
 - 💼 Software Support Engineer @ SSI-Schaefer
 - 🎓 MS in Applied Artificial Intelligence — Tecnológico de Monterrey
 - 📧 ricardo.galvanp4@gmail.com
@@ -21,6 +21,7 @@ Mechatronic Engineer from Tecnológico de Monterrey with 3+ years of professiona
 ## 📂 Projects
 
 - [Data Science & Analytics](https://github.com/RicardoGalvanP/coursework): classification, regression, PCA, feature engineering and EDA projects from my Master's program (Python, scikit-learn).
+- [Machine Learning](https://github.com/RicardoGalvanP/machine-learning): machine learning projects in Python, with emphasis on rigorous evaluation and responsible use of models.
 
 <!-- Add new portfolio projects here -->
 
