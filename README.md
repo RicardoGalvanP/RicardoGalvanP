@@ -22,7 +22,7 @@ Mechatronic Engineer from Tecnológico de Monterrey with 3+ years of professiona
 
 - [Data Science & Analytics](https://github.com/RicardoGalvanP/coursework): classification, regression, PCA, feature engineering and EDA projects from my Master's program (Python, scikit-learn).
 - [Machine Learning](https://github.com/RicardoGalvanP/machine-learning): machine learning projects in Python, with emphasis on rigorous evaluation and responsible use of models.
-
+- **Sales Analysis and Data Storytelling (Tableau):** E-commerce case for Numismática México: seasonality, revenue concentration, geography and advertising, told as an interactive story. [Story](https://public.tableau.com/app/profile/ricardo.galvan.paez/viz/Equipo13_Reto_Etapa4-4/Stories) · [Repo](https://github.com/RicardoGalvanP/data-science-analytics/tree/main/tableau-numismatica-mexico)
 <!-- Add new portfolio projects here -->
 
 ## 📈 Professional Experience
